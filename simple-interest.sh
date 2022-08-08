@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <squishyskull>
+   # squishyskull
 
    # Input:
    # p, principal amount
